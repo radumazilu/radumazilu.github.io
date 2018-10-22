@@ -2,8 +2,8 @@
   "errors": [],
   "warnings": [],
   "version": "3.12.0",
-  "hash": "ad8ae0bfe719c8b93d36",
-  "time": 17593,
+  "hash": "e48c35bf35908a41b1f2",
+  "time": 12277,
   "publicPath": "/",
   "assetsByChunkName": {
     "src/containers/Notes": [
@@ -24,9 +24,9 @@
     ],
     "main": [
       "main.51ecd561.js",
-      "styles.ad8ae0bf.css",
+      "styles.e48c35bf.css",
       "main.51ecd561.js.map",
-      "styles.ad8ae0bf.css.map"
+      "styles.e48c35bf.css.map"
     ],
     "bootstrap": [
       "bootstrap.1ef77769.js",
@@ -35,8 +35,8 @@
   },
   "assets": [
     {
-      "name": "styles.ad8ae0bf.css",
-      "size": 1933,
+      "name": "styles.e48c35bf.css",
+      "size": 1980,
       "chunks": [
         4
       ],
@@ -175,7 +175,7 @@
       "emitted": true
     },
     {
-      "name": "styles.ad8ae0bf.css.map",
+      "name": "styles.e48c35bf.css.map",
       "size": 96,
       "chunks": [
         4
@@ -208,9 +208,9 @@
         "bootstrap.1ef77769.js",
         "bootstrap.1ef77769.js.map",
         "main.51ecd561.js",
-        "styles.ad8ae0bf.css",
+        "styles.e48c35bf.css",
         "main.51ecd561.js.map",
-        "styles.ad8ae0bf.css.map"
+        "styles.e48c35bf.css.map"
       ],
       "isOverSizeLimit": true
     }
@@ -1240,9 +1240,9 @@
             1
           ],
           "assets": [],
-          "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/remark-parse/lib/tokenize/auto-link.js",
-          "issuerId": 204,
-          "issuerName": "./node_modules/remark-parse/lib/tokenize/auto-link.js",
+          "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/remark-parse/lib/tokenize/html-inline.js",
+          "issuerId": 207,
+          "issuerName": "./node_modules/remark-parse/lib/tokenize/html-inline.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -1288,9 +1288,9 @@
             1
           ],
           "assets": [],
-          "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/remark-parse/lib/tokenize/link.js",
-          "issuerId": 208,
-          "issuerName": "./node_modules/remark-parse/lib/tokenize/link.js",
+          "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/remark-parse/lib/tokenize/reference.js",
+          "issuerId": 209,
+          "issuerName": "./node_modules/remark-parse/lib/tokenize/reference.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -1336,9 +1336,9 @@
             2
           ],
           "assets": [],
-          "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/Users/radumazilu/Documents/For fun/radumazilu.github.io/src/containers/Base.js",
-          "issuerId": 52,
-          "issuerName": "./src/containers/Base.js",
+          "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/Users/radumazilu/Documents/For fun/radumazilu.github.io/src/containers/Notes.js",
+          "issuerId": 53,
+          "issuerName": "./src/containers/Notes.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -5534,9 +5534,9 @@
             1
           ],
           "assets": [],
-          "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/remark-parse/lib/tokenize/auto-link.js",
-          "issuerId": 204,
-          "issuerName": "./node_modules/remark-parse/lib/tokenize/auto-link.js",
+          "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/remark-parse/lib/tokenize/html-inline.js",
+          "issuerId": 207,
+          "issuerName": "./node_modules/remark-parse/lib/tokenize/html-inline.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -5582,9 +5582,9 @@
             1
           ],
           "assets": [],
-          "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/remark-parse/lib/tokenize/link.js",
-          "issuerId": 208,
-          "issuerName": "./node_modules/remark-parse/lib/tokenize/link.js",
+          "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/remark-parse/lib/tokenize/reference.js",
+          "issuerId": 209,
+          "issuerName": "./node_modules/remark-parse/lib/tokenize/reference.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -8800,9 +8800,9 @@
             2
           ],
           "assets": [],
-          "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/Users/radumazilu/Documents/For fun/radumazilu.github.io/src/containers/Base.js",
-          "issuerId": 52,
-          "issuerName": "./src/containers/Base.js",
+          "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/Users/radumazilu/Documents/For fun/radumazilu.github.io/src/containers/Notes.js",
+          "issuerId": 53,
+          "issuerName": "./src/containers/Notes.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -9054,9 +9054,9 @@
       ],
       "files": [
         "main.51ecd561.js",
-        "styles.ad8ae0bf.css",
+        "styles.e48c35bf.css",
         "main.51ecd561.js.map",
-        "styles.ad8ae0bf.css.map"
+        "styles.e48c35bf.css.map"
       ],
       "hash": "51ecd561afc0216f022b",
       "parents": [
@@ -10416,9 +10416,9 @@
             4
           ],
           "assets": [],
-          "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/react-static/lib/client/methods.js",
-          "issuerId": 11,
-          "issuerName": "./node_modules/react-static/lib/client/methods.js",
+          "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/react-static/lib/client/components/RouteData.js",
+          "issuerId": 93,
+          "issuerName": "./node_modules/react-static/lib/client/components/RouteData.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -10606,9 +10606,9 @@
             4
           ],
           "assets": [],
-          "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/react-static/lib/client/methods.js",
-          "issuerId": 11,
-          "issuerName": "./node_modules/react-static/lib/client/methods.js",
+          "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/react-static/lib/client/components/RouteData.js",
+          "issuerId": 93,
+          "issuerName": "./node_modules/react-static/lib/client/components/RouteData.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -11137,9 +11137,9 @@
             4
           ],
           "assets": [],
-          "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/react-dom/cjs/react-dom.production.min.js",
-          "issuerId": 59,
-          "issuerName": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+          "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/react/cjs/react.production.min.js",
+          "issuerId": 57,
+          "issuerName": "./node_modules/react/cjs/react.production.min.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -12047,9 +12047,9 @@
             4
           ],
           "assets": [],
-          "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/react-router/es/generatePath.js",
-          "issuerId": 34,
-          "issuerName": "./node_modules/react-router/es/generatePath.js",
+          "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/react-router/es/matchPath.js",
+          "issuerId": 21,
+          "issuerName": "./node_modules/react-router/es/matchPath.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -12288,9 +12288,9 @@
             4
           ],
           "assets": [],
-          "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/react-static/lib/client/methods.js",
-          "issuerId": 11,
-          "issuerName": "./node_modules/react-static/lib/client/methods.js",
+          "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/react-static/lib/client/components/SiteData.js",
+          "issuerId": 114,
+          "issuerName": "./node_modules/react-static/lib/client/components/SiteData.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -17442,9 +17442,9 @@
         4
       ],
       "assets": [],
-      "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/react-static/lib/client/methods.js",
-      "issuerId": 11,
-      "issuerName": "./node_modules/react-static/lib/client/methods.js",
+      "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/react-static/lib/client/components/RouteData.js",
+      "issuerId": 93,
+      "issuerName": "./node_modules/react-static/lib/client/components/RouteData.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -17632,9 +17632,9 @@
         4
       ],
       "assets": [],
-      "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/react-static/lib/client/methods.js",
-      "issuerId": 11,
-      "issuerName": "./node_modules/react-static/lib/client/methods.js",
+      "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/react-static/lib/client/components/RouteData.js",
+      "issuerId": 93,
+      "issuerName": "./node_modules/react-static/lib/client/components/RouteData.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -18163,9 +18163,9 @@
         4
       ],
       "assets": [],
-      "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/react-dom/cjs/react-dom.production.min.js",
-      "issuerId": 59,
-      "issuerName": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+      "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/react/cjs/react.production.min.js",
+      "issuerId": 57,
+      "issuerName": "./node_modules/react/cjs/react.production.min.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -19073,9 +19073,9 @@
         4
       ],
       "assets": [],
-      "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/react-router/es/generatePath.js",
-      "issuerId": 34,
-      "issuerName": "./node_modules/react-router/es/generatePath.js",
+      "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/react-router/es/matchPath.js",
+      "issuerId": 21,
+      "issuerName": "./node_modules/react-router/es/matchPath.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -19314,9 +19314,9 @@
         4
       ],
       "assets": [],
-      "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/react-static/lib/client/methods.js",
-      "issuerId": 11,
-      "issuerName": "./node_modules/react-static/lib/client/methods.js",
+      "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/react-static/lib/client/components/SiteData.js",
+      "issuerId": 114,
+      "issuerName": "./node_modules/react-static/lib/client/components/SiteData.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -24225,9 +24225,9 @@
         1
       ],
       "assets": [],
-      "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/remark-parse/lib/tokenize/auto-link.js",
-      "issuerId": 204,
-      "issuerName": "./node_modules/remark-parse/lib/tokenize/auto-link.js",
+      "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/remark-parse/lib/tokenize/html-inline.js",
+      "issuerId": 207,
+      "issuerName": "./node_modules/remark-parse/lib/tokenize/html-inline.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -24273,9 +24273,9 @@
         1
       ],
       "assets": [],
-      "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/remark-parse/lib/tokenize/link.js",
-      "issuerId": 208,
-      "issuerName": "./node_modules/remark-parse/lib/tokenize/link.js",
+      "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/remark-parse/lib/tokenize/reference.js",
+      "issuerId": 209,
+      "issuerName": "./node_modules/remark-parse/lib/tokenize/reference.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -24321,9 +24321,9 @@
         2
       ],
       "assets": [],
-      "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/Users/radumazilu/Documents/For fun/radumazilu.github.io/src/containers/Base.js",
-      "issuerId": 52,
-      "issuerName": "./src/containers/Base.js",
+      "issuer": "/Users/radumazilu/Documents/For fun/radumazilu.github.io/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/Users/radumazilu/Documents/For fun/radumazilu.github.io/src/containers/Notes.js",
+      "issuerId": 53,
+      "issuerName": "./src/containers/Notes.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -27624,12 +27624,12 @@
           "initial": true,
           "entry": true,
           "extraAsync": false,
-          "size": 4305,
+          "size": 4352,
           "names": [],
           "files": [
             "extract-text-webpack-plugin-output-filename"
           ],
-          "hash": "503fff76f76b85f8e525",
+          "hash": "e3cf0b195c38ee7c94e3",
           "parents": [],
           "modules": [
             {
@@ -27638,7 +27638,7 @@
               "name": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/app.css",
               "index": 0,
               "index2": 1,
-              "size": 2045,
+              "size": 2092,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -27658,7 +27658,7 @@
               "providedExports": null,
               "optimizationBailout": [],
               "depth": 0,
-              "source": "exports = module.exports = require(\"../node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.id, \"body{margin:0;padding:0;font-family:Crimson Text,HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif!important;font-weight:400;letter-spacing:.4px;font-size:16px}a{text-decoration:none;color:#108db8}img{max-width:100%}nav{width:100%;bottom:0;right:0;position:fixed;display:-ms-flexbox;display:flex;-ms-flex-pack:end;justify-content:flex-end;-ms-flex-align:center;align-items:center}nav a{color:#185754;text-decoration:none;border-bottom:1px solid #185754;margin:1rem}.content{padding:3em}.main-wrapper{display:-ms-flexbox;display:flex;height:100vh}.image-wrapper{width:50%}@media (max-device-width:500px){.image-wrapper{width:0}.layer,.profile-picture{position:absolute;width:100%}.layer{background-color:rgba(0,0,0,.3);top:0;left:0;height:100%}}.info-wrapper{width:50%;height:100vh;display:-ms-flexbox;display:flex;-ms-flex-align:left;align-items:left;-ms-flex-pack:center;justify-content:center;padding:0 3em;-ms-flex-direction:column;flex-direction:column}.info-wrapper>p{color:rgba(0,0,0,.6);font-size:15px;letter-spacing:.3px;line-height:1.5;margin-top:10px;font-family:Crimson Text}.info-wrapper>h2{font-family:Fira Sans;letter-spacing:2px;font-size:36px;font-weight:400}.info-wrapper>p>a{color:#185754;text-decoration:none;border-bottom:1px solid #185754}@media (max-device-width:500px){.info-wrapper{z-index:1000;padding:0 20px;width:100%}.info-wrapper>p{color:hsla(0,0%,100%,.9);margin-top:6px}.info-wrapper>h2{color:hsla(0,0%,100%,.7)}.info-wrapper>p>a{color:hsla(0,0%,100%,.9);text-decoration:none;border-bottom:1px solid hsla(0,0%,100%,.9)}}.social-icons-wrapper{margin-top:1.5em}.m-left{margin-left:1em}.social-icon{color:#474747}a:hover{opacity:.6;-webkit-transition:opacity .3s ease-in-out;-moz-transition:opacity .3s ease-in-out;-ms-transition:opacity .3s ease-in-out}@media (max-device-width:500px){.social-icon{color:#fff}}\", \"\"]);\n\n// exports\n"
+              "source": "exports = module.exports = require(\"../node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.id, \"body{margin:0;padding:0;font-family:Crimson Text,HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif!important;font-weight:400;letter-spacing:.4px;font-size:16px}a{text-decoration:none;color:#185754;border-bottom:1px solid #185754;font-size:13px}img{max-width:100%}nav{width:100%;bottom:0;right:0;position:fixed;display:-ms-flexbox;display:flex;-ms-flex-pack:end;justify-content:flex-end;-ms-flex-align:center;align-items:center}nav a{color:#185754;text-decoration:none;border-bottom:1px solid #185754;margin:1rem}.content{padding:3em}.main-wrapper{display:-ms-flexbox;display:flex;height:100vh}.image-wrapper{width:50%}@media (max-device-width:500px){.image-wrapper{width:0}.layer,.profile-picture{position:absolute;width:100%}.layer{background-color:rgba(0,0,0,.3);top:0;left:0;height:100%}}.info-wrapper{width:50%;height:100vh;display:-ms-flexbox;display:flex;-ms-flex-align:left;align-items:left;-ms-flex-pack:center;justify-content:center;padding:0 3em;-ms-flex-direction:column;flex-direction:column}.info-wrapper>p{color:rgba(0,0,0,.6);font-size:13px;letter-spacing:.3px;line-height:1.5;margin-top:10px;font-family:Crimson Text}.info-wrapper>h2{font-family:Fira Sans;letter-spacing:2px;font-size:36px;font-weight:400}.info-wrapper>p>a{color:#185754;text-decoration:none;border-bottom:1px solid #185754}@media (max-device-width:500px){.info-wrapper{z-index:1000;padding:0 20px;width:100%}.info-wrapper>p{color:hsla(0,0%,100%,.9);margin-top:6px}.info-wrapper>h2{color:hsla(0,0%,100%,.7)}.info-wrapper>p>a{color:hsla(0,0%,100%,.9);text-decoration:none;border-bottom:1px solid hsla(0,0%,100%,.9)}}.social-icons-wrapper{margin-top:1.5em}.m-left{margin-left:1em}.social-icon{color:#474747}a:hover{opacity:.6;-webkit-transition:opacity .3s ease-in-out;-moz-transition:opacity .3s ease-in-out;-ms-transition:opacity .3s ease-in-out}@media (max-device-width:500px){.social-icon{color:#fff}}\", \"\"]);\n\n// exports\n"
             },
             {
               "id": 1,
@@ -27719,7 +27719,7 @@
           "name": "./node_modules/css-loader??ref--0-oneOf-1-2!./node_modules/postcss-loader/lib??postcss!./src/app.css",
           "index": 0,
           "index2": 1,
-          "size": 2045,
+          "size": 2092,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -27739,7 +27739,7 @@
           "providedExports": null,
           "optimizationBailout": [],
           "depth": 0,
-          "source": "exports = module.exports = require(\"../node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.id, \"body{margin:0;padding:0;font-family:Crimson Text,HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif!important;font-weight:400;letter-spacing:.4px;font-size:16px}a{text-decoration:none;color:#108db8}img{max-width:100%}nav{width:100%;bottom:0;right:0;position:fixed;display:-ms-flexbox;display:flex;-ms-flex-pack:end;justify-content:flex-end;-ms-flex-align:center;align-items:center}nav a{color:#185754;text-decoration:none;border-bottom:1px solid #185754;margin:1rem}.content{padding:3em}.main-wrapper{display:-ms-flexbox;display:flex;height:100vh}.image-wrapper{width:50%}@media (max-device-width:500px){.image-wrapper{width:0}.layer,.profile-picture{position:absolute;width:100%}.layer{background-color:rgba(0,0,0,.3);top:0;left:0;height:100%}}.info-wrapper{width:50%;height:100vh;display:-ms-flexbox;display:flex;-ms-flex-align:left;align-items:left;-ms-flex-pack:center;justify-content:center;padding:0 3em;-ms-flex-direction:column;flex-direction:column}.info-wrapper>p{color:rgba(0,0,0,.6);font-size:15px;letter-spacing:.3px;line-height:1.5;margin-top:10px;font-family:Crimson Text}.info-wrapper>h2{font-family:Fira Sans;letter-spacing:2px;font-size:36px;font-weight:400}.info-wrapper>p>a{color:#185754;text-decoration:none;border-bottom:1px solid #185754}@media (max-device-width:500px){.info-wrapper{z-index:1000;padding:0 20px;width:100%}.info-wrapper>p{color:hsla(0,0%,100%,.9);margin-top:6px}.info-wrapper>h2{color:hsla(0,0%,100%,.7)}.info-wrapper>p>a{color:hsla(0,0%,100%,.9);text-decoration:none;border-bottom:1px solid hsla(0,0%,100%,.9)}}.social-icons-wrapper{margin-top:1.5em}.m-left{margin-left:1em}.social-icon{color:#474747}a:hover{opacity:.6;-webkit-transition:opacity .3s ease-in-out;-moz-transition:opacity .3s ease-in-out;-ms-transition:opacity .3s ease-in-out}@media (max-device-width:500px){.social-icon{color:#fff}}\", \"\"]);\n\n// exports\n"
+          "source": "exports = module.exports = require(\"../node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.id, \"body{margin:0;padding:0;font-family:Crimson Text,HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif!important;font-weight:400;letter-spacing:.4px;font-size:16px}a{text-decoration:none;color:#185754;border-bottom:1px solid #185754;font-size:13px}img{max-width:100%}nav{width:100%;bottom:0;right:0;position:fixed;display:-ms-flexbox;display:flex;-ms-flex-pack:end;justify-content:flex-end;-ms-flex-align:center;align-items:center}nav a{color:#185754;text-decoration:none;border-bottom:1px solid #185754;margin:1rem}.content{padding:3em}.main-wrapper{display:-ms-flexbox;display:flex;height:100vh}.image-wrapper{width:50%}@media (max-device-width:500px){.image-wrapper{width:0}.layer,.profile-picture{position:absolute;width:100%}.layer{background-color:rgba(0,0,0,.3);top:0;left:0;height:100%}}.info-wrapper{width:50%;height:100vh;display:-ms-flexbox;display:flex;-ms-flex-align:left;align-items:left;-ms-flex-pack:center;justify-content:center;padding:0 3em;-ms-flex-direction:column;flex-direction:column}.info-wrapper>p{color:rgba(0,0,0,.6);font-size:13px;letter-spacing:.3px;line-height:1.5;margin-top:10px;font-family:Crimson Text}.info-wrapper>h2{font-family:Fira Sans;letter-spacing:2px;font-size:36px;font-weight:400}.info-wrapper>p>a{color:#185754;text-decoration:none;border-bottom:1px solid #185754}@media (max-device-width:500px){.info-wrapper{z-index:1000;padding:0 20px;width:100%}.info-wrapper>p{color:hsla(0,0%,100%,.9);margin-top:6px}.info-wrapper>h2{color:hsla(0,0%,100%,.7)}.info-wrapper>p>a{color:hsla(0,0%,100%,.9);text-decoration:none;border-bottom:1px solid hsla(0,0%,100%,.9)}}.social-icons-wrapper{margin-top:1.5em}.m-left{margin-left:1em}.social-icon{color:#474747}a:hover{opacity:.6;-webkit-transition:opacity .3s ease-in-out;-moz-transition:opacity .3s ease-in-out;-ms-transition:opacity .3s ease-in-out}@media (max-device-width:500px){.social-icon{color:#fff}}\", \"\"]);\n\n// exports\n"
         },
         {
           "id": 1,
