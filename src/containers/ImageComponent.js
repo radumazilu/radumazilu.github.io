@@ -10,7 +10,7 @@ class ImageComponent extends Component {
   }
 
   grabImage = () => {
-    this.setState({ imageLink: 'https://source.unsplash.com/1600x900/?london,bucharest,space' })
+    this.setState({ imageLink: '../../img/water.jpeg' })
   }
 
   render () {
